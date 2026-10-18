@@ -5,7 +5,6 @@
   <a href="https://linkedin.com/in/amulyagupta27" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:amulyagupta57121@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Amulya27/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
-  <img src="https://komarev.com/ghpvc/?username=devAmulya&color=blue&style=flat-square&label=Profile%20Views&v=2" alt="Profile Views" />
 </p>
 
 ---
